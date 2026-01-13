@@ -1,0 +1,57 @@
+# OFEK TOVAL — Generative Engine Optimization Map
+
+> A טכנולוגיה פינסית / מסחר business.
+
+---
+
+## Pages
+
+### דף הבית
+https://ofek-toval-05d94dcd.zappy5.app
+גלה אינדיקטורים לטריידינג וויו מתקדמים עם שירות התקנה מקצועי. התחל לסחור חכם עוד היום!
+
+### שירותים
+https://ofek-toval-05d94dcd.zappy5.app/services
+מגוון מלא של אינדיקטורים להרכבת רשת גרף מתקדמים לטריידינג וויו עם התקנה מקצועית ותמיכה מלאה.
+
+### אודות
+https://ofek-toval-05d94dcd.zappy5.app/about
+למד עוד על OFEK TOVAL והמומחיות שלנו בפיתוח אינדיקטורים לטריידינג וויו מתקדמים. הצוות המוביל בתחום.
+
+### צור קשר
+https://ofek-toval-05d94dcd.zappy5.app/contact
+צור קשר עם OFEK TOVAL לייעוץ חינם על אינדיקטורים לטריידינג וויו. נשמח לעזור לך להתחיל!
+
+## Legal & Policy
+
+### Privacy Policy
+https://ofek-toval-05d94dcd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ofek-toval-05d94dcd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ofek-toval-05d94dcd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About OFEK TOVAL
+OFEK TOVAL is a business in the טכנולוגיה פינסית / מסחר industry.
+
+## Target Audience
+קהל חו"ל
+
+## Industry
+טכנולוגיה פינסית / מסחר
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ofek-toval-05d94dcd.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ofek-toval-05d94dcd.zappy5.app/robots.txt

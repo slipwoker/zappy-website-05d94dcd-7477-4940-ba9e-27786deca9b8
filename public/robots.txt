@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ofek-toval-05d94dcd.zappy5.app/sitemap.xml
